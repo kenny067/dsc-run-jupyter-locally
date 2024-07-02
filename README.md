@@ -99,3 +99,4 @@ Then click on the `index.ipynb` file which is the Jupyter Notebook we will be us
 ## Summary
 
 In this lesson, you learned about the command line, cloning GitHub repositories, and how to work with Jupyter notebooks locally. In the next lab, you'll put what you learned into practice!
+# git_practice
